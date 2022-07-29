@@ -46,3 +46,12 @@ The following packages were added:
   com.unity.ugui@1.0.0
 The following packages were updated:
   com.unity.render-pipelines.universal from version 10.8.0 to 10.9.0
+
+=== Fri Jul 29 21:22:21 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.15.17 to 1.17.0
+  com.unity.ide.visualstudio from version 2.0.15 to 2.0.16

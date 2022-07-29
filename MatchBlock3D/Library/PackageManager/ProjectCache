@@ -5,27 +5,27 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637942578090000000
-    m_Hash: 1831199857
+      ticks: 637947157410000000
+    m_Hash: 1389794340
   m_LockFileStatus:
     m_FilePath: /Users/kaganayten/Desktop/MatchBlock3DClone/MatchBlock3D/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637942578090000000
-    m_Hash: 3383325513
+      ticks: 637947157430000000
+    m_Hash: 733870019
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.collab-proxy@1.15.17
+    - packageId: com.unity.collab-proxy@1.17.0
       testable: 0
       isDirectDependency: 1
-      version: 1.15.17
+      version: 1.17.0
       source: 1
-      resolvedPath: /Users/kaganayten/Desktop/MatchBlock3DClone/MatchBlock3D/Library/PackageCache/com.unity.collab-proxy@1.15.17
+      resolvedPath: /Users/kaganayten/Desktop/MatchBlock3DClone/MatchBlock3D/Library/PackageCache/com.unity.collab-proxy@1.17.0
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -104,8 +104,6 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         compatible:
-        - 1.15.17
-        - 1.15.18
         - 1.17.0
         - 1.17.1
         - 1.17.2
@@ -119,7 +117,7 @@ m_PackageAssets:
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
-        verified: 1.15.18
+        verified: 1.17.2
       dependencies:
       - name: com.unity.services.core
         version: 1.0.1
@@ -154,13 +152,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637871149130000000
+      datePublishedTicks: 637914260330000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: fd95d00c5a7961beec85ee190181439d53fb0dba
+        revision: de2fce09233dd85d080b9609cade4b0bba9ee709
         path: 
     - packageId: com.unity.device-simulator@3.0.3-preview
       testable: 0
@@ -362,12 +360,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
         revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
         path: 
-    - packageId: com.unity.ide.visualstudio@2.0.15
+    - packageId: com.unity.ide.visualstudio@2.0.16
       testable: 0
       isDirectDependency: 1
-      version: 2.0.15
+      version: 2.0.16
       source: 1
-      resolvedPath: /Users/kaganayten/Desktop/MatchBlock3DClone/MatchBlock3D/Library/PackageCache/com.unity.ide.visualstudio@2.0.15
+      resolvedPath: /Users/kaganayten/Desktop/MatchBlock3DClone/MatchBlock3D/Library/PackageCache/com.unity.ide.visualstudio@2.0.16
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -449,13 +447,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637841884840000000
+      datePublishedTicks: 637914298680000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-        revision: ca1ece42f5a2c5484ba15a15bb975ccc1f6a1a3c
+        revision: c01855ef6461b821ab0226135e96a4ee86de96be
         path: 
     - packageId: com.unity.ide.vscode@1.2.5
       testable: 0
@@ -3533,4 +3531,4 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 m_ProjectPath: /Users/kaganayten/Desktop/MatchBlock3DClone/MatchBlock3D/Packages
-m_EditorVersion: 2020.3.35f1 (18e4db7a9996)
+m_EditorVersion: 2020.3.37f1 (8c66806a0c04)
